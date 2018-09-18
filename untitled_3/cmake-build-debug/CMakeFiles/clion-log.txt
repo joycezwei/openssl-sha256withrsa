@@ -1,0 +1,4 @@
+/home/parallels/application/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/parallels/CLionProjects/untitled_3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/parallels/CLionProjects/untitled_3/cmake-build-debug
